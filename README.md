@@ -62,12 +62,6 @@ For deployment, the API key is configured securely in Streamlit Cloud Secrets.
 
 ---
 
-LIVE DEMO
-
-Add your Streamlit deployment link here
-
----
-
 USE CASES
 
 - Automated resume screening
